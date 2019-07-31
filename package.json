@@ -1,0 +1,12 @@
+{
+  "name": "material-pickers-error",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.3.4",
+    "@material-ui/pickers": "^3.2.1",
+    "meteor-node-stubs": "^0.4.1"
+  }
+}
